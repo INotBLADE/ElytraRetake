@@ -1,8 +1,8 @@
 {
   "name": "ElytraRetake",
-  "version": "0.1",
+  "version": "1.0",
   "description": "",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
+  "url": "https://github.com/INotBLADE/ElytraRetake",
   "authors": [ "Blade" ],
   "main_class": "com.lambda.ElytraRetakePlugin",
   "min_api_version": "3.2",
